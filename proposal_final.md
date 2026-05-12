@@ -1,60 +1,4 @@
-# Sourcing Strategy + 1000-Company Scale-Up Proposal
-
-## Question 1: How else would I find Federer-profile companies across India?
-
-### 1) Industry association and cluster directories
-**Examples:** Telangana life-sciences cluster material, CII, FICCI, AIMED, med-tech park member lists, biotech park directories, and state industrial ecosystem pages.
-
-**Why it works:** Federer companies often show up in ecosystems that reward product depth, certifications, and export ambition. Association directories concentrate the exact kind of manufacturer that DeepThought wants.
-
-**Limitations:** Directory data is often stale, and many entries are aspirational rather than validated manufacturers. Every lead still needs website and company-structure verification.
-
-### 2) Government and regulatory signals
-**Examples:** ROC/MCA, Udyam / MSME data, patent databases, DSIR-recognized labs, ISO/WHO-GMP/USFDA/EU-GMP mentions, medical device park lists, biotech cluster approvals, pollution-control or factory disclosures where relevant.
-
-**Why it works:** Federer companies usually leave a technical and regulatory footprint. Certifications and registrations are useful proxies for real manufacturing and process discipline.
-
-**Limitations:** Public records can lag reality. A certificate alone does not prove fit, ownership structure, or current growth.
-
-### 3) Trade-show and expo exhibitor lists
-**Examples:** BioAsia, India MedTech Expo, analytica Lab India, CPhI India, India Lab Expo, agro-biotech expos, state export summits.
-
-**Why it works:** Exhibitors are actively selling, investing in market presence, and usually have enough scale to care about process and capability building.
-
-**Limitations:** Exhibitor lists include traders, agents, and brand resellers. The list needs a post-filter for manufacturing and promoter fit.
-
-### 4) Product catalog ecosystems
-**Examples:** company websites, IndiaMART / TradeIndia / ExportersIndia / Justdial / Kompass / Thomasnet-style listings, plus product catalog PDFs and buyer manuals.
-
-**Why it works:** Product catalogs expose actual manufacturing depth faster than a generic “about us” page.
-
-**Limitations:** Many profiles are commercial listings, not primary sources. Use them for discovery, then verify on the company’s own site.
-
-### 5) Hiring and career signals
-**Examples:** LinkedIn jobs, Naukri, careers pages, recent hiring posts, role count changes, campus recruitment notices.
-
-**Why it works:** A company hiring across QA, production, R&D, regulatory, operations, or business development is usually in motion.
-
-**Limitations:** Hiring alone is not enough. A service company can also be hiring aggressively.
-
-### 6) News, awards, and launch announcements
-**Examples:** press releases, local business news, state government news, product-launch articles, expansion news, facility inaugurations, export announcements.
-
-**Why it works:** These often reveal the exact personalization hook needed for first outreach.
-
-**Limitations:** News coverage can be PR-heavy. It should be treated as a signal, not proof.
-
-### 7) Unconventional but effective methods
-- search by **product class** rather than company name
-- search for **factory address + product**
-- use **founder education filters** on LinkedIn
-- search **conference speaker lists** for technical founders
-- reverse-search **export/import records** for technical product names
-- mine **incubator cohorts** at CDFD, CCMB, T-Hub, MedTech Park, Genome Valley, and similar institutions
-
-**Why it works:** These methods surface companies before they become obvious on generic Google queries.
-
-**Limitations:** They are discovery tools, not validation tools.
+# 1000-Company Scale-Up Proposal
 
 ## Question 2: How I would build a list of 1000 ICP-qualified companies in one month
 
@@ -162,21 +106,3 @@ I would run a **funnel, not a list-building exercise**.
 ### Operating principle
 I would optimize for **high-confidence ICP fit, not scale at any cost**.  
 A smaller list with clear evidence is more useful than a bloated list with weak screening.
-
-### Hand-drawn diagram to send in chat
-Draw a funnel with these stages:
-
-Raw universe → dedupe → manufacturer filter → founder/technical filter → growth signals → manual QA → 1,000 ICP companies
-
-Under each stage, write the tools used:
-- search / directories
-- website parsing
-- LLM classification
-- LinkedIn / news / MCA
-- human audit
-
-At the bottom, show weekly boxes:
-- Week 1: Universe
-- Week 2: Filter
-- Week 3: Enrich
-- Week 4: QA + export
